@@ -1,2 +1,2 @@
-web: sh setup.sh && streamlit run danilo_house_rocket.py
+web: sh setup.sh && streamlit run danilo_hr.py
 
