@@ -530,7 +530,7 @@ def relat_final(data):
 
         #print(f'US$ {lucro10:.2f}\n')
         st.subheader('Investimento necessário e lucro')
-        st.write(f'O investimento necessário para comprar esses imóveis é de {investimento}')
+        st.write(f'O investimento necessário para comprar esses imóveis é de US$ {investimento}')
         st.write(f'Tomando como base, todas as casas sendo vendidas com 30% a mais no valor de compra, o lucro será de US$ {lucro30:.2f}')
 
     return None
