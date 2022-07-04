@@ -63,7 +63,7 @@ A base de dados foi do kaggle: https://www.kaggle.com/datasets/harlfoxem/housesa
 - Criação de hipoteses
 - Entendimento e criação de Insights
 
-4.Respondendo problemas de negocio
+4. Respondendo problemas de negocio
 
 5. Resultado para o negócio
 
